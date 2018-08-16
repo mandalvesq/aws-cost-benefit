@@ -1,0 +1,14 @@
+INSTANCE_TYPE,MEMORY,COST
+m1.xlarge,15,0.35
+c4.xlarge,7.5,0.6
+r4.large,30,0.8
+c4.2xlarge,15,1.2
+c2.2xlarge,10,0.9
+r4.2xlarge,120,1.4
+c4.4xlarge,20,2.4
+m3.medium,6,0.3
+c2.large,5,0.4
+c2.xlarge,8,0.6
+m4.xlarge,10,0.8
+c4.8xlarge,40,4.8
+c3.xlarge,8,0.5
