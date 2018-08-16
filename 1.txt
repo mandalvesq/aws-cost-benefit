@@ -1,0 +1,12 @@
+INSTANCE_TYPE,VCPU,VIRTUALIZATION
+m4.xlarge,2,HVM
+m1.xlarge,2,PV
+c4.xlarge,4,HVM
+c4.2xlarge,8,HVM
+c4.4xlarge,16,HVM
+c4.8xlarge,36,HVM
+c2.large,2,PV
+c2.xlarge,4,PV
+c2.2xlarge,8,PV
+r4.large,2,HVM
+r4.2xlarge,8,HVM
