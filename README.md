@@ -1,4 +1,4 @@
-# Python AWS Cost
+# AWS Cost Benefit
 
 Simple application to identify what is the best AWS Instance to use! 
 
